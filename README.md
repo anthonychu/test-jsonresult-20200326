@@ -1,0 +1,1 @@
+Repro for https://github.com/Azure/azure-functions-core-tools/issues/1907
